@@ -1,0 +1,13 @@
+main.listing {
+  article {
+    margin: 1.5rem 0;
+
+    .content p:last-child {
+      margin: 0;
+    }
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+}

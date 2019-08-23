@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="two-column">
-  <main class="main posts">
+  <main class="main single">
     <div class="backButton hide">
       <a href="/page">Back to Posts</a>
     </div>
@@ -13,10 +13,18 @@ layout: default
 
     {{ content }}
 
-    {% if page.gmap %}
-    <div class="google-maps">
-      <iframe src="https://www.google.com/maps/embed?{{ page.gmap }}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-    </div>
+    {% if page.social %}
+    <section>
+      <h3>More Links</h3>
+      <ul>
+        {% if page.social.gmap %}
+          <li><a href="{{ page.social.gmap }}">See on a map</a></li>
+        {% endif %}
+        {% if page.social.yelp %}
+          <li><a href="{{ page.social.yelp }}">Yelp Page</a></li>
+        {% endif %}
+      </ul>
+    </section>
     {% endif %}
   </main>
 

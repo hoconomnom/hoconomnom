@@ -1,8 +1,11 @@
+$headerHeight: 55px;
+
 header {
-  padding: 1rem 0.5rem 0 0.5rem;
+  padding: 0 0.5rem;
   background: $color-primary;
 
   h1  {
+    line-height: $headerHeight;
     display: inline-block;
     color: $color-primary-font-contrast;
   }
@@ -17,16 +20,21 @@ header {
 
       li {
         display: inline-block;
-        margin: 0 10px;
       }
 
       a {
-        color: $color-primary-font;
+        display: block;
+        height: calc($headerHeight - 5px);
+        color: $color-primary-font-contrast;
+        padding: 10px;
+        font-weight: bold;
+        border-bottom: 5px solid;
+        border-color: transparent;
       
         &:hover, &:focus {
-          color: $color-primary-font;
-          font-weight: normal;
-          text-decoration: underline;
+          color: $color-primary-font-contrast;
+          text-decoration: none;
+          border-color: $color-primary-font-contrast;
         }
       }
     }
