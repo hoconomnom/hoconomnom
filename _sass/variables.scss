@@ -1,0 +1,26 @@
+// Colors
+
+$color-primary: #3AAFA9;
+$color-primary-darker: #2B7A78;
+$color-primary-lighter: #DEF2F1;
+
+$color-dark: #17252A;
+$color-light: #FEFFFF;
+
+$color-primary-font: $color-dark;
+$color-primary-font-contrast: $color-light; 
+
+
+// Breakpoints
+
+// Small tablets and large smartphones (landscape view)
+$screen-sm-min: 576px;
+
+// Small tablets (portrait view)
+$screen-md-min: 768px;
+
+// Tablets and small desktops
+$screen-lg-min: 992px;
+
+// Large tablets and desktops
+$screen-xl-min: 1200px;

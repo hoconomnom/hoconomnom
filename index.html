@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="two-column">
+    <main class="main posts">
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+        <article>
+          <span class="date">{{ post.date | date: "%A, %B %-d, %Y"}}</span>
+          <h2><a href="{{ post.url }}?backurl=page{{ paginator.page }}">{{ post.title }}</a></h2>
+          <div class="content">
+            {{ post.content }}
+          </div>
+        </article>
+      {% endfor %}
+    
+      <!-- Pagination links -->
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous">
+            Newer Posts
+          </a>
+        {% endif %}
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Older Posts</a>
+        {% endif %}
+      </div>
+    
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>

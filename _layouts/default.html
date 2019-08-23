@@ -4,7 +4,9 @@
     <meta charset="utf-8">
     <title>Hoco NomNom - {{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
-
+    
+    {% seo %}
+    
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -20,10 +22,12 @@
     <!-- End Google Tag Manager (noscript) -->
 
     {% include header.html %}
-    <section>
+    
+    <div class="main-wrapper">
       {{ content }}
-    </section>
-    {% include comments.html %}
+      {% include comments.html %}
+    </div>
+
     {% include footer.html %}
   </body>
 </html>

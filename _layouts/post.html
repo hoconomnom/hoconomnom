@@ -1,7 +1,42 @@
 ---
 layout: default
 ---
-<p>{{ page.date | date: "%A, %B %-d, %Y"}}</p>
-<h1>{{ page.title }}</h1>
 
-{{ content }}
+<div class="two-column">
+  <main class="main posts">
+    <div class="backButton hide">
+      <a href="/page">Back to Posts</a>
+    </div>
+
+    <span class="date">{{ page.date | date: "%A, %B %-d, %Y"}}</span>
+    <h1>{{ page.title }}</h1>
+
+    {{ content }}
+
+    {% if page.gmap %}
+    <div class="google-maps">
+      <iframe src="https://www.google.com/maps/embed?{{ page.gmap }}" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </div>
+    {% endif %}
+  </main>
+
+  <aside class="sidebar">
+    {% include sidebar-post.html %}
+  </aside>
+</div>
+
+<script>
+  // Display back button
+  document.addEventListener("DOMContentLoaded", function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    const myParam = urlParams.get('backurl');
+    if(myParam) {
+      var backButtonList = document.getElementsByClassName('backButton');
+	    backButtonList[0].classList.remove('hide');
+
+      var backLink = backButtonList[0].querySelector('a');
+      var backUrl = (myParam === 'page1') ? '/' : `/${myParam}/`;
+      backLink.setAttribute('href', backUrl);
+    }
+  });
+</script>

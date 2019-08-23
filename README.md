@@ -9,7 +9,7 @@ Build:
 ```
 docker run --rm \
   --volume="$PWD:/srv/jekyll" \
-  -it jekyll/jekyll \
+  -it jekyll/jekyll:pages \
   jekyll build
 ```
 
