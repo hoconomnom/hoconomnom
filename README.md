@@ -1,3 +1,27 @@
+# HocoNomNom Blog
+
+This is the Howard County Food Blog.
+
+## Run Locally
+
+Build:
+
+```
+docker run --rm \
+  --volume="$PWD:/srv/jekyll" \
+  -it jekyll/jekyll \
+  jekyll build
+```
+
+Serve:
+
+```
+docker run -dit --name my-apache-app -p 8080:80 -v "$PWD/_site:/usr/local/apache2/htdocs/" httpd:2.4
+```
+
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hoconomnom/hoconomnom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
