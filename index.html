@@ -11,10 +11,13 @@ layout: default
           <h2>
             <a href="{{ post.url }}?backurl=page{{ paginator.page }}">{{ post.title }}</a>
           </h2>
-          <div class="content">
-            {{ post.content }}
+          <div class="content clearfix">
+            {{ post.excerpt }}
           </div>
-          <div>
+          <div class="continue">
+            <a href="{{ post.url }}?backurl=page{{ paginator.page }}">Continue Reading &raquo;</a>
+          </div>
+          <div class="footer">
             <a href="{{site.url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">Post a comment</a>
           </div>
         </article>

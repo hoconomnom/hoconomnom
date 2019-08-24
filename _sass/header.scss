@@ -1,13 +1,26 @@
-$headerHeight: 55px;
+$headerHeight: 75px;
 
 header {
+  position: relative;
   padding: 0 0.5rem;
   background: $color-primary;
+  height: $headerHeight;
 
   h1  {
-    line-height: $headerHeight;
-    display: inline-block;
+    position: absolute;
     color: $color-primary-font-contrast;
+  }
+
+  .logo {
+    display: block;
+    height: calc(#{$headerHeight} - 20px);
+    width: 80px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/images/hoconomnom.svg');
+    text-indent: -9999em;
+    overflow: hidden;
+    margin-top: 10px;
   }
 
   nav {
@@ -15,18 +28,20 @@ header {
     
     ul {
       list-style: none;
-      margin: 0 0 0 50px;
+      margin: 0 0 0 110px;
       padding: 0;
 
       li {
         display: inline-block;
+        margin-left: 10px;
+        margin-right: 10px;
       }
 
       a {
         display: block;
-        height: calc($headerHeight - 5px);
+        height: $headerHeight;
+        line-height: $headerHeight;
         color: $color-primary-font-contrast;
-        padding: 10px;
         font-weight: bold;
         border-bottom: 5px solid;
         border-color: transparent;

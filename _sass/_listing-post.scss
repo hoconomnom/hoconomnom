@@ -5,9 +5,15 @@ main.listing {
     .content p:last-child {
       margin: 0;
     }
+
+    .footer {
+      margin-top: 0.3rem;
+      font-size: 0.8rem;
+    }
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1.5rem;;
+    margin-bottom: 0.5rem;
   }
 }

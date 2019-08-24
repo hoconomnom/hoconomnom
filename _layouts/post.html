@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="two-column">
-  <main class="main single">
+  <main class="main single clearfix">
     <div class="backButton hide">
       <a href="/page">Back to Posts</a>
     </div>
@@ -15,14 +15,23 @@ layout: default
 
     {% if page.social %}
     <section>
-      <h3>More Links</h3>
+      <h3>
+        More Links
+        {% if page.name %}
+        of {{page.name}}
+        {% endif %}
+      </h3>
       <ul>
         {% if page.social.gmap %}
           <li><a href="{{ page.social.gmap }}">See on a map</a></li>
         {% endif %}
         {% if page.social.yelp %}
-          <li><a href="{{ page.social.yelp }}">Yelp Page</a></li>
+          <li><a href="{{ page.social.yelp }}">Yelp</a></li>
         {% endif %}
+        {% if page.social.instagram %}
+          <li><a href="{{ page.social.instagram }}">Instagram</a></li>
+        {% endif %}
+        
       </ul>
     </section>
     {% endif %}
