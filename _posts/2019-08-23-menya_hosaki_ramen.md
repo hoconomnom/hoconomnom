@@ -17,7 +17,9 @@ social:
 %}
 
 We pulled into the parking lot of a dull brown office building. Company logos like Dell, Parsons, and obligatory letters followed by "-tech" surround us. The parking lot is empty except for a small group of cars just outside a door with a green awning labelled Junction Deli. You would never guess that right here is where you can get a great bowl of ramen.
+
 <!--more-->
+
 {% 
   include photo-thumbnail.html 
   caption="Outside the temporary home of Menya Hosaki"

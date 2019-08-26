@@ -20,7 +20,14 @@ layout: default
           </div>
           {% endif %}
           <div class="footer">
-            <a href="{{site.url}}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">Post a comment</a>
+            <div class="tags">
+              {% if post.tags != empty %}
+                Tags: {{ post.tags | array_to_sentence_string }}
+              {% endif %}
+            </div>
+            <div class="comments">
+                <a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">Post a comment</a>
+            </div>
           </div>
         </article>
       {% endfor %}
