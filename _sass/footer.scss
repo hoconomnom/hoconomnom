@@ -1,27 +1,104 @@
 footer {
-  text-align: right;
-  padding: 1rem 0.5rem;
+  color: $color-primary-font-contrast;
+  padding: 1rem;
   width: 100%;
   background-color: $color-dark;
 
-  ul {
-    list-style: none;
-    margin: 0 0 0 50px;
-    padding: 0;
+  div:nth-child(2) {
+    margin-top: 1rem;
+  }
 
-    li {
-      display: inline-block;
-      margin: 0 10px;
+  @include lg {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+
+    div:nth-child(1){
+      margin-right: 2rem;
+      flex: 1 1 0;
     }
 
-    a {
-      color: $color-primary-font-contrast;
+    div:nth-child(2){
+      margin-top: 0;
+      flex: 2 1 0;
+    }
 
-      &:hover, &:focus {
-        color: $color-primary-font-contrast;
-        font-weight: normal;
-        text-decoration: underline;
+    // other link sub section
+    .row {
+      display: flex;
+
+      div.col{
+        flex: 1 1 0;
+
+        &:first-child{
+          margin-right: 2rem;
+        }
       }
-    }  
+    }
+  }
+
+  h2 {
+    margin-bottom: 1rem;
+  }
+
+  h3 {
+    margin: 1rem 0 0.5rem;
+  }
+
+  .related h2 {
+    @include lg {
+      margin-bottom: 0;
+    }
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    color: $color-primary-font-contrast;
+
+    &:hover, &:focus {
+      color: $color-primary-font-contrast;
+      font-weight: normal;
+      text-decoration: underline;
+    }
+  }  
+  
+  .social {
+    li {
+      margin: 0;
+      margin-right: 0.5rem;
+      display: inline-block;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .icon {
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-indent: -9999em;
+    overflow: hidden;
+    width: 30px;
+    height: 30px;
+
+    &.twitter {
+      background-image: url('/assets/images/icon_twitter.svg');
+    }
+    &.instagram {
+      background-image: url('/assets/images/icon_instagram.svg');
+    }
+    &.reddit {
+      background-image: url('/assets/images/icon_reddit.svg');
+    }
+    &.email {
+      background-image: url('/assets/images/icon_email.svg');
+    }
   }
 }
