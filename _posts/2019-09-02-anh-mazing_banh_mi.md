@@ -21,7 +21,7 @@ Clarksville Commons is growing their army of businesses. Strolling into the food
 
 {%
   include photo-thumbnail.html 
-  caption="Front view"
+  caption="Front view (left side is Anh-Mazing Banh Mi)"
   src="https://lh3.googleusercontent.com/WFiS3TXIRyVFPqb4cEy-oXdCKUL2rzzoT6Bi7dQ2jTZl1uuHYv4M66fogaUD8RYe7zrSHyYRYyycXgNa6WwcQ3LxVAtCD6Gf6oWyEF-L0xOB78OMUqAIOZ7bTxljcyqi8MHR72Nj5w=w400"
 %}
 

@@ -88,6 +88,9 @@ footer {
     width: 30px;
     height: 30px;
 
+    &.facebook {
+      background-image: url('/assets/images/icon_facebook.svg');
+    }
     &.twitter {
       background-image: url('/assets/images/icon_twitter.svg');
     }
@@ -99,6 +102,9 @@ footer {
     }
     &.email {
       background-image: url('/assets/images/icon_email.svg');
+    }
+    &.rss {
+      background-image: url('/assets/images/icon_rss.svg');
     }
   }
 }
