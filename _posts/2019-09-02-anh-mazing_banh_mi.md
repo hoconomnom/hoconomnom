@@ -13,7 +13,7 @@ social:
 
 {%
   include photo-thumbnail.html 
-  caption="Bahn Mi Traditional"
+  caption="Bahn Mi Traditional Sandwich"
   src="https://lh3.googleusercontent.com/cNpN5pFW4jbfTQUAzmZ5SyyyN5Y-XPQ_-1chY_Oi87TGdOLo_QZ53MMe3JyDj6eny605p5gsd2xct1jgWZoFChNB1TreWdhtxmDcqol_-FIFNiaDlyxGZcnnQgH6v6pSysYuTIxJVQ=w400"
 %}
 
