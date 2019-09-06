@@ -13,11 +13,11 @@ tags: []
 
 On Sunday there was a [gas explosion](https://patch.com/maryland/columbia/gas-explosion-columbia-business-building-draws-emergency-crews) that happened on Stanford Blvd. No reported injuries but there were many businesses that were affected. Restaurants that are included:
 
-* Pub Dog - [GoFundMe campaign for staff support](https://www.gofundme.com/f/pub-dog-staff-support-fund?utm_source=facebook)
+* Pub Dog - [GoFundMe campaign](https://www.gofundme.com/f/pub-dog-staff-support-fund)
 * Pho La Cay
-* Mango Grove
+* Mango Grove - [GoFundMe campaign](https://www.gofundme.com/f/bgawf-mango-grove-employee-support-fund)
 * Katana Sushi
-* Riverside Coffee
+* Riverside Coffee - [GoFundMe campaign](https://www.gofundme.com/f/riverside-coffee-family)
 
 As of now, many restaurants are unsure when they will be able to reopen. Thoughts and prayers go out to the livelihoods of the employees who are out of work because of these closures.
 
