@@ -26,3 +26,5 @@ As of now, many restaurants are unsure when they will be able to reopen. Thought
   caption="Opposite side of explosion (closer to restaurants)"
   src="https://lh3.googleusercontent.com/nNESuzmLNNs3C0NB64ahumDJVHGdnFm2Fl-jlpXNjjwXH3SPdx-ehc6u7R4HZlbEqQo3X9LodPRCGTvJGR0H3iHVuKxWl9MKDBnXqCIJ0gvkh_zasLrruhnBGDQNW539ndSZI_WqZg=w400"
 %}
+
+UPDATE: Pho La Cay reporting reopening Nov 6, 2019 (via yelp).
