@@ -6,8 +6,8 @@ layout: default
   <main class="main single clearfix">
 
     <!-- Breadcrumb -->
-    <div class="backButton hide">
-      <a href="/page">Back to Posts</a>
+    <div class="backButton">
+      <a href="/">Back to Posts</a>
     </div>
 
     <!-- Date -->
@@ -69,13 +69,10 @@ layout: default
   document.addEventListener("DOMContentLoaded", function() {
     const urlParams = new URLSearchParams(window.location.search);
     const myParam = urlParams.get('backurl');
-    if(myParam) {
-      var backButtonList = document.getElementsByClassName('backButton');
-	    backButtonList[0].classList.remove('hide');
+    var backButtonList = document.getElementsByClassName('backButton');
 
-      var backLink = backButtonList[0].querySelector('a');
-      var backUrl = (myParam === 'page1') ? '/' : `/${myParam}/`;
-      backLink.setAttribute('href', backUrl);
-    }
+    var backLink = backButtonList[0].querySelector('a');
+    var backUrl = (myParam && myParam !== 'page1') ? `/${myParam}/` : '/';
+    backLink.setAttribute('href', backUrl);
   });
 </script>
