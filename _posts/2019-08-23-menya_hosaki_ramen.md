@@ -3,7 +3,7 @@ comments: true
 title: Menya Hosaki Ramen (Pop-Up)
 name: Menya Hosaki Ramen (Pop-Up)
 categories: [restaurant]
-tags: [japanese, ramen]
+tags: [japanese, ramen, annapolis junction]
 social:
   yelp: https://www.yelp.com/biz/menya-hosaki-ramen-pop-up-annapolis-junction
   instagram: https://www.instagram.com/menyahosaki/

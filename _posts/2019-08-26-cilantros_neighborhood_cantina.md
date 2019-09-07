@@ -3,7 +3,7 @@ comments: true
 title: Cilantro's Neighborhood Cantina Serving Fresh Latin Food in Western Howard County
 name: Cilantro's Neighborhood Cantina
 categories: [restaurant]
-tags: [latin, mexican, tacos]
+tags: [latin, mexican, tacos, glenelg]
 social:
   website: https://www.cilantrosneighborhoodcantina.com/
   yelp: https://www.yelp.com/biz/cilantro-s-neighborhood-cantina-glenelg?osq=cilantro%27s+neighborhood

@@ -2,7 +2,7 @@
 comments: true
 title: Gas Explosion Leaves Many Businesses Closed
 categories: [update]
-tags: []
+tags: [columbia]
 ---
 
 {%
