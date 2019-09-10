@@ -20,6 +20,8 @@ social:
 
 We are Maryland fans, both the wife and I were born here, we went to school here, and now we're raising a family here. My wallet hopes that Little Nom goes to an in-state school. The decor of this next place is just like us: live, breathe and die, Maryland. I'm talking about The Beef Brothers Deli in Ellicott City.
 
+<!--more-->
+
 {%
   include photo-thumbnail.html 
   caption="Collage Wall"
