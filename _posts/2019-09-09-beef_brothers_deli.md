@@ -4,6 +4,7 @@ title: A Restaurant That Bleeds Maryland Blood
 name: The Beef Brothers Deli
 categories: [restaurant]
 tags: [sandwiches, pizza, ellicott city]
+est: 2015-10
 social:
   website: https://thebeefbrothers.com/
   yelp: https://www.yelp.com/biz/the-beef-brothers-deli-and-catering-ellicott-city-2

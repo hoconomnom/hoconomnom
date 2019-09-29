@@ -4,6 +4,7 @@ title: The Perfect Lunch Food... Banh Mi
 name: Anh-Mazing Banh Mi
 categories: [restaurant]
 tags: [vietnamese, sandwiches, clarksville commons, clarksville]
+est: 2019-07-27
 social:
   yelp: https://www.yelp.com/biz/anh-mazing-banh-mi-clarksville
   facebook: https://www.facebook.com/anhmazingbanhmi/

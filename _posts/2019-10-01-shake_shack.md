@@ -4,6 +4,7 @@ title: A Burger of Perfection
 name: Shake Shack
 categories: [restaurant]
 tags: [burgers, shakes, fast food, columbia]
+est: 2017-12-20
 social:
   website: https://www.shakeshack.com/location/mall-columbia-md/
   yelp: https://www.yelp.com/biz/shake-shack-columbia-2
