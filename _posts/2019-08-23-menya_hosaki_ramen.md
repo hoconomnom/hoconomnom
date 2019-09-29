@@ -41,7 +41,7 @@ When we first heard of this place from a friend, Me and the Mrs. couldn't wait t
   src="https://lh3.googleusercontent.com/Lz14QfLn_IQNk8f_fyA6WTpsdz1xnKKyzCnKLWX1kkAWCbUvxxyamI3P_G295NJT220mvNNF-XRJ0LPCKfa3XYm1ECQ6G5pKzWStop0thrXiGmvowQbW8g7WP9rSS4sJZOVHEB1k=w300" 
 %}
 
-One thing to note, there's nothing else except for ramen, so any non-ramen slurpers in your party will be out of luck. Little Nom couldn't get her staple ramen appetizer, gyoza (dumplings). Their selection of broth types were limited to shoyu, tonkotsu, and a weekly special noodle. Quality over Quantity though.
+One thing to note, there's nothing else except for ramen, so any non-ramen slurpers in your party will be out of luck. Little Nom couldn't get their staple ramen appetizer, gyoza (dumplings). Their selection of broth types were limited to shoyu, tonkotsu, and a weekly special noodle. Quality over Quantity though.
 
 Afterwards, the giant glass door drink refrigerators of the deli were making Mrs. Nom Nom thirsty. We were pretty sure it was off limits. Luckily, you can help yourself to as much free iced cold green tea. 
 
