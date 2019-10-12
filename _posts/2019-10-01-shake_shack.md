@@ -32,7 +32,7 @@ The Shake Shack burger is amazingly simple. It consists of a toasted potato roll
 
 <div style="text-align:center"><iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/04xuIuTcti0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-When we go, we love getting the burgers. Remember you can add more toppings, I add pickles and onions. Little Nom loves these burgers but she really attacks the crinkle fries. Their lemonades and shakes are addictingly good and it takes shear will power to pass on them whenever we go (we never pass on them). If you do treat yourself to something sweet, the Columbia location will donate 5% of sales of the the Pie Oh My concrete to [Grassroots](http://www.grassrootscrisis.org/).
+When we go, we love getting the burgers. Remember you can add more toppings, I add pickles and onions. Little Nom loves these burgers but they really attack the crinkle fries. Their lemonades and shakes are addictingly good and it takes shear will power to pass on them whenever we go (we never pass on them). If you do treat yourself to something sweet, the Columbia location will donate 5% of sales of the the Pie Oh My concrete to [Grassroots](http://www.grassrootscrisis.org/).
 
 The outdoor seating area is a great touch and provides heat lamps when it gets too cold. There's ample seating and the large windows always remind me of Edward Hopper's [Nighthawks painting](https://en.wikipedia.org/wiki/Nighthawks_(painting)). Competition in the fast food burger market is fierce and Shake Shack is a heavy hitter.
 
