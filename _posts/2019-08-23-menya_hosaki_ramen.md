@@ -9,6 +9,7 @@ social:
   yelp: https://www.yelp.com/biz/menya-hosaki-ramen-pop-up-annapolis-junction
   instagram: https://www.instagram.com/menyahosaki/
   gmap: https://goo.gl/maps/WFdb1cdTRwA3npDn9
+og_image: https://lh3.googleusercontent.com/B--m11ZIlwX9GjCu_ds2sDxabPeS2kyOIqpRfeThLHRvrxqowd-_QooQOlbmPq-SpFwd6JmVTA0M614yFete-KfzdlmUuTM-Lh_UijGebnWDsDfK56IpZHS2kwgXY7_8RxJ8_ewg=w400
 ---
 
 {%

@@ -11,6 +11,7 @@ social:
   facebook: https://www.facebook.com/Beef-Brothers-Deli-Catering-of-Ellicott-City-182820738417762/
   twitter: https://twitter.com/thebeefbrothers
   gmap: https://goo.gl/maps/QMVfXZwLfV4bxRi29
+og_image: https://lh3.googleusercontent.com/UfYk09dUWsakm4D2LydJLP1dCo1frCffjD_VzsZgIT88EQ3IrJ4akPkRj32u7xmA0ElsfN-NSH3CnKqIzgEAbGrQcYutlMlMllcpf5Odyn8lFYaaTAH2Xynlj98TcInXXJbcQD5mVQ=w400
 ---
 
 {%

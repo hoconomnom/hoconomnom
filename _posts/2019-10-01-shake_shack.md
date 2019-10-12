@@ -10,6 +10,7 @@ social:
   yelp: https://www.yelp.com/biz/shake-shack-columbia-2
   facebook: https://www.facebook.com/shakeshackmallincolumbia/
   gmap: https://goo.gl/maps/uYi7KimvBM4CHVKs6
+og_image: https://lh3.googleusercontent.com/Oy8wHYlsglOSO3W14uhn_jX1TcWyvC22H19BgwBSVycghaXeQC4ZJuVp6ic8RIcP38wZhNcjlXXTGy9Vpx9hG0ty_WIxDql4jqe5OqN2tC38WXFtYXEaJlRhnvdekfh5F03whvHwmg=w400
 ---
 
 {%

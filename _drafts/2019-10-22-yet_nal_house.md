@@ -8,6 +8,7 @@ est: 2009
 social:
   yelp: https://www.yelp.com/biz/yet-nal-house-ellicott-city
   gmap: https://goo.gl/maps/TCE3ofWVgzEigskX9
+og_image: https://lh3.googleusercontent.com/-zq_QFZinakdDE5qxlkt17kZEf0o0LpRQJC4lbj1jLGTe8XK6wtlmawjC3hz-8XphBrcjGkARFGCgG9tbQclsOXByiZTZA5eVmStiBrI5Ns247IBeThQFpPgKK5XvF8cAJObahbbEw=w400
 ---
 
 {%

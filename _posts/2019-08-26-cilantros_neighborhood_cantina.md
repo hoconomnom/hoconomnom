@@ -11,6 +11,7 @@ social:
   instagram: https://www.instagram.com/cilantrosneighborhoodcantina/
   facebook: https://www.facebook.com/pages/category/Restaurant/Cilantros-Neighborhood-Cantina-2343958262318427/
   gmap: https://goo.gl/maps/cT2Trep8vPyG1Nsw8
+og_image: https://lh3.googleusercontent.com/-sspXsMaaeyzuMVsBzy_YTbtnna9cX8bl-WvIlBP-ikEKjtaxLcFP0pst2zQywJKK2H7ox8mi5ROaHS3VVIEQd8_4UcQQcAlpiuKYDfhTYAN6n8sJHw040ir6XhUjkCFB79chjNo=w400
 ---
 
 {%

@@ -9,6 +9,7 @@ social:
   yelp: https://www.yelp.com/biz/jumbo-jumbo-cafe-ellicott-city
   facebook: https://www.facebook.com/JumboJumboEllicottCity/
   gmap: https://goo.gl/maps/q3r9Lw5gmrGdqXXb9
+og_image: https://lh3.googleusercontent.com/Jn7AVxI_o4qXH72XyoWC30jtIy_9aYEHzYhE8AXbvXxA0dNzjpnk13Ae6thmBxfEC6WaxBfSKx3zbiq1FdzZbq6MioEBPVmT4E2jMKBO0sxRR40g-lf0FGtH4VVyEECHCw9BVZQyYA=w400
 ---
 
 {%
