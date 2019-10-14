@@ -20,7 +20,7 @@ og_image: https://lh3.googleusercontent.com/-sspXsMaaeyzuMVsBzy_YTbtnna9cX8bl-Wv
   src="https://lh3.googleusercontent.com/-sspXsMaaeyzuMVsBzy_YTbtnna9cX8bl-WvIlBP-ikEKjtaxLcFP0pst2zQywJKK2H7ox8mi5ROaHS3VVIEQd8_4UcQQcAlpiuKYDfhTYAN6n8sJHw040ir6XhUjkCFB79chjNo=w400"
 %}
 
-Just a month old, this latin restaurant is serving up a fair amount of latin/mexican fare. In a very quiet town, western Howard County gets another food option in the name of Cilantro's Neighborhood Cantina. The restaurant is located on the side of a building that is shared with a number of offices and shops (it is on the left side when viewing the building from the road). Still awaiting a proper sign, you will have to trust that the unmarked door leads into the restaurant.  
+Just a month old, this latin restaurant is serving up a fair amount of latin/mexican fare. In a very quiet town, western Howard County gets another food option in the name of Cilantro's Neighborhood Cantina. The restaurant is located on the side of a building that is shared with a number of offices and shops (it is on the left side when viewing the building from the road). ~~Still awaiting a proper sign, you will have to trust that the unmarked door leads into the restaurant.~~ UPDATE: A beautiful sign is now up.
 
 <!--more-->
 
