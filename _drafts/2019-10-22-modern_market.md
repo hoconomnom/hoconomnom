@@ -5,6 +5,7 @@ name: Modern Market
 categories: [restaurant]
 tags: [columbia]
 est: 2018-02-12
+latlong: [39.2006198,-76.8141851]
 social:
   yelp: https://www.yelp.com/biz/modern-market-eatery-columbia
   facebook: https://www.facebook.com/modernmarketcolumbia/

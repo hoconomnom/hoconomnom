@@ -5,6 +5,7 @@ name: Jumbo Jumbo Cafe
 categories: [restaurant]
 tags: [bubble tea, taiwanese, ellicott city]
 est: 2019-09-18
+latlong: [39.2774081,-76.8265769]
 social:
   yelp: https://www.yelp.com/biz/jumbo-jumbo-cafe-ellicott-city
   facebook: https://www.facebook.com/JumboJumboEllicottCity/

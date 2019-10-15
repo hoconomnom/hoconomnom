@@ -5,6 +5,7 @@ name: Cilantro's Neighborhood Cantina
 categories: [restaurant]
 tags: [latin, mexican, tacos, glenelg]
 est: 2019-07-27
+latlong: [39.2658211,-76.9884809]
 social:
   website: https://www.cilantrosneighborhoodcantina.com/
   yelp: https://www.yelp.com/biz/cilantro-s-neighborhood-cantina-glenelg?osq=cilantro%27s+neighborhood

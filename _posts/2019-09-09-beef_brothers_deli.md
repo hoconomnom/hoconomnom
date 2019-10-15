@@ -5,6 +5,7 @@ name: The Beef Brothers Deli
 categories: [restaurant]
 tags: [sandwiches, pizza, ellicott city]
 est: 2015-10
+latlong: [39.2791932,-76.8642101]
 social:
   website: https://thebeefbrothers.com/
   yelp: https://www.yelp.com/biz/the-beef-brothers-deli-and-catering-ellicott-city-2

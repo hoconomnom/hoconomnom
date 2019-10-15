@@ -5,6 +5,7 @@ name: Shake Shack
 categories: [restaurant]
 tags: [burgers, shakes, fast food, columbia]
 est: 2017-12-20
+latlong: [39.2167161,-76.863219]
 social:
   website: https://www.shakeshack.com/location/mall-columbia-md/
   yelp: https://www.yelp.com/biz/shake-shack-columbia-2

@@ -5,6 +5,7 @@ name: Anh-Mazing Banh Mi
 categories: [restaurant]
 tags: [vietnamese, sandwiches, clarksville commons, clarksville]
 est: 2019-07-27
+latlong: [39.2112114,-76.9411851]
 social:
   yelp: https://www.yelp.com/biz/anh-mazing-banh-mi-clarksville
   facebook: https://www.facebook.com/anhmazingbanhmi/

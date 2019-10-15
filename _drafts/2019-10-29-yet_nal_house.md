@@ -5,6 +5,7 @@ name: Yet Nal House
 categories: [restaurant]
 tags: [soup, sushi, korean, ellicott city]
 est: 2009
+latlong: [39.2806534,-76.8662003]
 social:
   yelp: https://www.yelp.com/biz/yet-nal-house-ellicott-city
   gmap: https://goo.gl/maps/TCE3ofWVgzEigskX9

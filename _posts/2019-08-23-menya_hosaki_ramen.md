@@ -5,6 +5,7 @@ name: Menya Hosaki Ramen (Pop-Up)
 categories: [restaurant]
 tags: [japanese, ramen, annapolis junction]
 est: 2019-07-17
+latlong: [39.1234223,-76.7984642]
 social:
   yelp: https://www.yelp.com/biz/menya-hosaki-ramen-pop-up-annapolis-junction
   instagram: https://www.instagram.com/menyahosaki/
