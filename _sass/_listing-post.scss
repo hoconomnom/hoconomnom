@@ -2,16 +2,38 @@ main.listing {
   article {
     margin: 2rem 0;
 
-    .content p:last-child {
-      margin: 0;
+    h2 {
+      font-size: 1.7rem;;
+      background-color: $color-primary-darker;
+      margin-bottom: 0.5rem;
+
+      a { 
+        display: block;
+        padding: 1rem;
+        color: $color-primary-font-contrast;
+      }
+    }
+
+    span.date {
+      font-weight: bold;
+      font-size: 0.9rem;
+    }
+
+    .content {
+      padding-left: 1rem;
+
+      p:last-child {
+        margin: 0;
+      }
     }
 
     .continue {
-      margin: 1rem 0;
+      margin: 1rem;
     }
     
     .footer {
       margin-top: 0.3rem;
+      margin-left: 1rem;
       font-size: 0.8rem;
     }
 
@@ -20,8 +42,4 @@ main.listing {
     }
   }
 
-  h2 {
-    font-size: 1.7rem;;
-    margin-bottom: 0.5rem;
-  }
 }
