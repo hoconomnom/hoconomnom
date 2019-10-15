@@ -46,7 +46,7 @@ header {
         border-bottom: 5px solid;
         border-color: transparent;
       
-        &:hover, &:focus {
+        &.active, &:hover, &:focus {
           color: $color-primary-font-contrast;
           text-decoration: none;
           border-color: $color-primary-font-contrast;

@@ -1,0 +1,24 @@
+<article>
+  <span class="date">{{ post.date | date: "%A, %B %-d, %Y"}}</span>
+  <h2>
+    <a href="{{ post.url }}?backurl=page{{ paginator.page }}">{{ post.title }}</a>
+  </h2>
+  <div class="content clearfix">
+    {{ post.excerpt }}
+  </div>
+  {% if post.content contains site.excerpt_separator %}
+  <div class="continue">
+    <a href="{{ post.url }}?backurl=page{{ paginator.page }}">Continue Reading &raquo;</a>
+  </div>
+  {% endif %}
+  <div class="footer">
+    <div class="tags">
+      {% if post.tags != empty %}
+        Tags: {{ post.tags | array_to_sentence_string }}
+      {% endif %}
+    </div>
+    <div class="comments">
+        <a href="{{ site.url }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}">Post a comment</a>
+    </div>
+  </div>
+</article>
