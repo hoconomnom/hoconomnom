@@ -1,0 +1,34 @@
+# - name: African
+#   subtypes:
+#     - ethopian
+#     - afghan
+
+- name: American
+  subtypes:
+    - american
+    - tex-mex
+
+- name: Asian
+  subtypes:
+  - chinese
+  - japanese
+  - korean
+  - taiwanese
+  - thai
+  - vietnamese
+
+# - name: European
+#   subtypes:
+#   - french
+#   - italian
+#   - greek
+
+- name: Latin
+  subtypes:
+    - cuban
+    - mexican
+    - spanish
+
+- name: Other
+  subtypes:
+    - fast food

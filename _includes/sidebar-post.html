@@ -11,10 +11,6 @@
 
   <section>
     <h2>Categories</h2>
-    <ul>
-      {% for category in site.categories %}
-        <li><a href="/categories/{{category[0]}}/">{{category[0]}}</a> ({{category[1] | size}})</li>
-      {% endfor %}
-    </ul>
+    {% include countsCategory.html %}
   </section>
 </div>
