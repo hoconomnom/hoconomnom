@@ -1,5 +1,6 @@
 ---
 layout: default
+hasMap: true
 og_image: https://lh3.googleusercontent.com/yQ3M7S31Fc87_ZrJVDA4zSmhhiYw0Li7aKEbSHksOlNdEfQRbtlHQRjocn9Yea67Xt1cR5iIiSyBrP9HUF9QQCpinyfiiqmroN12bvQte8-_D2QTCznIFAFY8SWzNYf6uprQO2qmWQ=w400
 ---
 
@@ -13,40 +14,4 @@ og_image: https://lh3.googleusercontent.com/yQ3M7S31Fc87_ZrJVDA4zSmhhiYw0Li7aKEb
     </aside>
 </div>
 
-<script src="/assets/js/howardcounty.js"></script>
-<script>
-  var map = L.map('mapid').setView([39.235278, -76.941389], 11);
-
-  L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.{ext}', {
-    ext: 'png',
-    maxZoom: 18,
-    attribution: 'Wikimedia maps | Map data &copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
-  }).addTo(map);
-  
-  {% for post in site.posts %}
-    {% if post.latlong %}
-      L.marker([{{post.latlong[0]}},{{post.latlong[1]}}]).addTo(map)
-        .bindPopup('<a href="{{post.url}}">{{post.name | smartify}}</a><br/>Posted: {{ post.date | date: "%m/%d/%Y"}}');
-    {% endif %}
-  {% endfor %}
-
-  var invertGeoJson = {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [90, -180],
-        [90, 180],
-        [-90, 180],
-        [-90, -180]
-      ],
-      howardcounty.features[0].geometry.coordinates[0]
-    ]
-  }
-
-  L.geoJSON(invertGeoJson, {
-    style: {
-	    fillColor: "#333333",
-      "opacity": 0.5
-    }
-  }).addTo(map);
-</script>
+{% include map.html list=site.posts %}

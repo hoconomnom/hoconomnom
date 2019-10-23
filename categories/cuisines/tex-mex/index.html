@@ -1,0 +1,21 @@
+---
+layout: default
+hasMap: true
+---
+
+{% assign texmexPosts = site.tags.tex-mex | where_exp:"item", "item.categories contains 'restaurant'" %}
+
+<div class="two-column">
+    <main class="main">
+      <h1>Tex-Mex Restaurants</h1>
+      {% include collection-list.html list=texmexPosts %}
+
+      <div id="mapid" style="height: 550px;"></div>
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>
+
+{% include map.html list=texmexPosts %}

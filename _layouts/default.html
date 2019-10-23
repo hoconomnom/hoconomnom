@@ -14,7 +14,7 @@
     <meta property="og:image" content="{% if page.og_image %}{{ page.og_image }}{% else %}https://lh3.googleusercontent.com/k-IXw50WyEt9i6aqzga0v8DltU4r_t-H6JN6BoHNKxiSX1b7iPyoTW3PRl0KCGjnkn8KvvxTEHLTZcF-zJKN9O_aVuyS5LrbngyBAAAjz-S963Tm10CgDiwfYEPcLbPzPK1nGh9Cjw=w400{% endif %}"/>
     <meta name="twitter:card" content="summary_large_image" />
     
-    {% if page.url == "/map.html" %}
+    {% if page.hasMap == true %}
     <!-- Map -->
     <link rel="stylesheet" href="//unpkg.com/leaflet@1.5.1/dist/leaflet.css"
       integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="

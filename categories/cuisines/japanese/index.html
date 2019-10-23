@@ -1,0 +1,21 @@
+---
+layout: default
+hasMap: true
+---
+
+{% assign japanesePosts = site.tags.japanese | where_exp:"item", "item.categories contains 'restaurant'" %}
+
+<div class="two-column">
+    <main class="main">
+      <h1>Japanese Restaurants</h1>
+      {% include collection-list.html list=japanesePosts %}
+
+      <div id="mapid" style="height: 550px;"></div>
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>
+
+{% include map.html list=japanesePosts %}

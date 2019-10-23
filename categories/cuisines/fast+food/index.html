@@ -1,0 +1,21 @@
+---
+layout: default
+hasMap: true
+---
+
+{% assign ffPosts = site.tags["fast food"] | where_exp:"item", "item.categories contains 'restaurant'" %}
+
+<div class="two-column">
+    <main class="main">
+      <h1>Fast Food Restaurants</h1>
+      {% include collection-list.html list=ffPosts %}
+
+      <div id="mapid" style="height: 550px;"></div>
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>
+
+{% include map.html list=ffPosts %}

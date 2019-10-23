@@ -4,10 +4,10 @@
       {{ parent.name }}
       <ul>
         {% for sub in parent.subtypes %}
-          {% assign tagPosts = site.tags.[sub] | where_exp:"item", "item.categories contains 'restaurant'" %}
+          {% assign tagPosts = site.tags[sub] | where_exp:"item", "item.categories contains 'restaurant'" %}
           {% assign count = tagPosts | size %}
           {% if count != 0 %}
-            <li><a href="/tags/{{sub}}/">{{sub | capitalize}}</a> ({{count}})</li>
+            <li><a href="/categories/cuisines/{{sub | url_encode}}/">{{sub | capitalize}}</a> ({{count}})</li>
           {% endif %}
         {% endfor %}
       </ul>

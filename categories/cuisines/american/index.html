@@ -1,0 +1,21 @@
+---
+layout: default
+hasMap: true
+---
+
+{% assign americanPosts = site.tags.american | where_exp:"item", "item.categories contains 'restaurant'" %}
+
+<div class="two-column">
+    <main class="main">
+      <h1>American Fare Restaurants</h1>
+      {% include collection-list.html list=americanPosts %}
+
+      <div id="mapid" style="height: 550px;"></div>
+      {% include map.html list=americanPosts %}
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>
+
