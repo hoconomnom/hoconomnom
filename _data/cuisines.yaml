@@ -17,11 +17,11 @@
   - thai
   - vietnamese
 
-# - name: European
-#   subtypes:
-#   - french
-#   - italian
-#   - greek
+- name: European
+  subtypes:
+  - french
+  - italian
+  - greek
 
 - name: Latin
   subtypes:
