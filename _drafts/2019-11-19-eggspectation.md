@@ -19,6 +19,6 @@ og_image: https://lh3.googleusercontent.com/Be60qy9zfWGfWelXCIwfSclDOcGpIxrvk5YX
   src="https://lh3.googleusercontent.com/Be60qy9zfWGfWelXCIwfSclDOcGpIxrvk5YX-ZYhyvZGKcpjEA3n2Kzfsm5oTZMwYYFNZH60bOASuxCK_eZDpRQZ4R1vVd7_j-VMcGNVzJKMLYBtVZaDnO0HXbN8hIE9ljVZZICGWA=w400"
 %}
 
-This restaurant has exploded in the past couple years. Originating from Rockville, it's amazing to see how many locations have spread across the nation. The restaurant is in 12 states with over 87 locations and more coming soon. It shows that the concept of this restaurant works. If you haven't had Cava yet then rush to Columbia.
+We've covered a couple of restaurants that have found Howard County as a great second home. This particular restaurant is a prime example of that. Hailing all the way from Montreal, this restaurant chose Ellicott City as their first in the US. They have expanded since then across the DelMarVa area and one in Texas. 
 
 <!--more-->
