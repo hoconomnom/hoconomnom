@@ -5,7 +5,7 @@ name: Manor Hill Brewery
 categories: [restaurant]
 tags: [beer, columbia]
 est: 2015-06
-latlong: [39.2006198,-76.8141851]
+latlong: [39.250841,-76.886718]
 social:
   yelp: https://www.yelp.com/biz/manor-hill-brewing-ellicott-city
   facebook: https://www.facebook.com/manorhillbrew/
