@@ -4,7 +4,7 @@ title: Best Soup to Have When It's Cold
 name: Yet Nal House
 categories: [restaurant]
 tags: [soup, sushi, korean, ellicott city]
-est: 2009
+est: 2008
 latlong: [39.2806534,-76.8662003]
 social:
   yelp: https://www.yelp.com/biz/yet-nal-house-ellicott-city

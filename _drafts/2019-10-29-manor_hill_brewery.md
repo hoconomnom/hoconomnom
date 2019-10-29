@@ -4,7 +4,7 @@ title: An Amazing Brewery On a Farm
 name: Manor Hill Brewery
 categories: [restaurant]
 tags: [beer, columbia]
-est: 2018-02-12
+est: 2015-06
 latlong: [39.2006198,-76.8141851]
 social:
   yelp: https://www.yelp.com/biz/manor-hill-brewing-ellicott-city
