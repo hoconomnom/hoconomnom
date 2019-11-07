@@ -6,6 +6,7 @@ permalink: /:year/:month/:day/:title:output_ext
 paginate: 15
 paginate_path: "/page:num/"
 excerpt_separator: <!--more-->
+timezone: America/New_York
 defaults:
   -
     scope:
