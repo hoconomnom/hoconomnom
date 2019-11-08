@@ -28,4 +28,5 @@ As of now, many restaurants are unsure when they will be able to reopen. Thought
 %}
 
 UPDATE (09/07/19): Pho La Cay reporting reopening Nov 6, 2019 (via yelp).
+
 UPDATE 2 (11/07/19): [Seems like it'll still be awhile](https://baltimore.cbslocal.com/2019/10/15/columbia-shopping-center-gas-explosion-latest/). Not much change has happened on the property.
