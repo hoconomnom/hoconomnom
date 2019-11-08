@@ -5,7 +5,7 @@ name: Eggspectation
 categories: [restaurant]
 tags: [brunch, burgers, american, ellicott city]
 est: 2002-08
-latlong: [39.2092516,-76.7993585]
+latlong: [39.2092516,-76.7971698]
 social:
   yelp: https://www.yelp.com/biz/eggspectation-ellicott-city
   gmap: https://goo.gl/maps/LHAVjczVdPtVAZaA6
