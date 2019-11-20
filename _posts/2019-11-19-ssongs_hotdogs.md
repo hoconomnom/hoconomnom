@@ -21,7 +21,7 @@ og_image: https://lh3.googleusercontent.com/rA2vm-HAEMAgmUcIhvNZCgCea_uoEMtBX4CW
   src="https://lh3.googleusercontent.com/rA2vm-HAEMAgmUcIhvNZCgCea_uoEMtBX4CWMuxEhc_XISaKBAiujZcRR86AB2vKVOoLCnXFxtWEyUBEKWQuuyvMRmGLKXiVL7jhRlCtuiVf-mckRCib0G5J36RX4kvaWh97-ue8Zg=w400"
 %}
 
-It has been a long time since I've had this much excitement waiting in line for food. Once I found out about this place, I got there as fast as possible. Ssong's Hotdog has brought the Little Nom out of me. I've never had korean hot dogs before and Howard County has never had a place like this before. So you can bet that the first chance I got, I bolted over to the Columbia Mall to try.
+It has been a long time since I've had this much excitement waiting in line for food. Once I found out about this place, I got there as fast as possible. Ssong's Hotdog has brought the Little Nom out of me. I've never had Korean hot dogs before and Howard County has never had a place like this before. So you can bet that the first chance I got, I bolted over to the Columbia Mall to try.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ The first thing that intrigued me was what are these Korean hot dogs. Supposedly
   src="https://lh3.googleusercontent.com/AlN3jDck50u302-UO0oVleOrkDGEsohB0EAQlfFdAxOpoMU9ozp5OxIIBaSokFpsai5XN4wTI3yvQQ3wwDMiPcP-qMcLyxwtNlvCey46bzIKICI9ICg0nG7CCIWfID_IAesrtCkXLQ=w400"
 %}
 
-The menu is very simple. You basically pick what you want as the core of the corn dog. I got the Premium Sausage Hotdog (go big or go home right?). The best part is it's made right then and there. It was amazing to watch as they prepared the food. They dipped the sausage in a thick creamy batter and then rolled it in panko breadcrumbs. It was a thing of beauty. While I was waiting I saw another customer got the Mozz Sausage Hotdog where the top half core was mozzarella cheese. Watching them eat the cheese was exactly what you would want to expect. A nice long stretchy string of cheese flowed from the stick to their mouth when they took their first bite.
+The menu is very simple. You basically pick what you want as the core of the corn dog. I got the Premium Sausage Hotdog (go big or go home right?). The best part is it's made right then and there. It was amazing to watch as they prepared the food. They dipped the sausage in a thick creamy batter and then rolled it in panko breadcrumbs. It was a thing of beauty. While I was waiting I saw another customer get the Mozz Sausage Hotdog where the top half core was mozzarella cheese. Watching them eat the cheese was exactly what you would expect. A nice long stretchy string of cheese flowed from the stick to their mouth when they took their first bite.
 
 {%
   include photo-thumbnail.html 
