@@ -7,7 +7,8 @@ paginate: 15
 paginate_path: "/page:num/"
 excerpt_separator: <!--more-->
 timezone: America/New_York
-twitter: hoconomnom
+twitter:
+  username: hoconomnom
 defaults:
   -
     scope:
