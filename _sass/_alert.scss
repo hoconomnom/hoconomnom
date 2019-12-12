@@ -1,0 +1,40 @@
+.alert {
+  background-color: #e1f3f8;
+  border-left: 8px solid #02bfe7;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #212121;
+  min-height: 56px;
+  padding: 16px;
+  position: relative;
+
+  &.alert-warn {
+    background-color: #fff1d2;
+    border-color: #fdb81e;
+  }
+
+  &.alert-error {
+    background-color: #f9dede;
+    border-color: #e31c3d;
+  }
+
+  &.alert-success { 
+    background-color: #e7f4e4;
+    border-color: #2e8540;
+  }
+
+  .alert-heading {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    margin-top: 0;
+  }
+
+  p:nth-child(2) {
+    margin-top: 0.5em;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
