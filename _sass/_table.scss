@@ -12,5 +12,10 @@ table.hoconomnom-table {
     border: 1px solid #5b616b;
     padding: 16px;
     text-align: left;
+    vertical-align: top;
+
+    p:first-child {
+      margin-top: 0;
+    }
   }
 }
