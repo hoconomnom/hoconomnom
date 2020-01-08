@@ -38,7 +38,7 @@ When entering, you'll see a nice large open space with plenty of seating. The co
   src="https://lh3.googleusercontent.com/UiDKrVoDvE169lLiVyigQH6dWZDqBoRjCR59bTwJ2MFjmVkibsImK8-FvxLWIjwUYZmmaHy914J8gjxkw88PiXA5KqGfQdyXd2DMND3Njy-b4ZlIrI5djtmQLXNWS-moYDAmkiwO-Q=w400"
 %}
 
-I get the platter. There's something so refreshing with the simplicity of the dish. It is a lot of food for one person that I never finish. The small slices of pita always get stolen by Little Nom. Little Nom also loves tomatoes so all the tomatoes go to them. You'll find out that the white sauce is absolutely amazing. There's a self serve bottle in a small fridge next to the drinks if you ever need more.
+I get the platter. There's something so refreshing with the simplicity of the dish. It is a lot of food for one person that I never finish. The small slices of pita always get stolen by Little Nom. Little Nom also loves tomatoes so all the tomatoes go to them. You'll find out that the white sauce is absolutely amazing. There's a self serve bottle with the sauce in a small fridge next to the drinks, if you ever need more.
 
 {%
   include photo-thumbnail.html 
