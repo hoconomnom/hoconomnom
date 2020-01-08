@@ -1,7 +1,7 @@
 ---
 comments: true
 author: MrNomNom
-title: Bibimbap by Bibibop, Say That Five Times Fast
+title: Food Cart to Franchaise, Halal Guys Come To Howard County
 name: The Halal Guys
 categories: [restaurant]
 tags: [egyptian, columbia]
