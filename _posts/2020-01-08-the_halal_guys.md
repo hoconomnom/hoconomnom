@@ -1,7 +1,7 @@
 ---
 comments: true
 author: MrNomNom
-title: Food Cart to Franchaise, Halal Guys Come To Howard County
+title: Food Cart to Franchise, Halal Guys Come To Howard County
 name: The Halal Guys
 categories: [restaurant]
 tags: [egyptian, columbia]
