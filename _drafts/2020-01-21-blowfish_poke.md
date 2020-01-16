@@ -12,7 +12,7 @@ social:
   gmap: https://goo.gl/maps/n158MHkm7kVcqgn26
   instagram: https://www.instagram.com/blowfishpoke/
   facebook: https://www.facebook.com/blowfishpoke/
-og_image: https://lh3.googleusercontent.com/fvi2ST9wl_wuVVHAo7M4XLCbam32IgxL-GyrxzGUM62zrSXONp3OVWhcslSKofLIsZYIcXBojmShYECPxdSYenRmKlacaoDmccPhdv9c44x6kiuptZBte6x6BybNc4e-2pCCa99kFA=w400
+og_image: https://lh3.googleusercontent.com/79AWjCB_h4XEwCSY4n_khU-AMHA01bxzpAqbRXGGc80hPek5QEzhUgKWErsK7dhPMjFVGpVX_jvYF7MDLfIzVoUOUESAEkkOZbUAZ1krv-gICUo2XdB3aPeG1D2DPrwxJIBZb1_C_w=w400
 ---
 
 {%
