@@ -31,4 +31,4 @@ The Common Kitchen in Clarksville added another healthy option to it's army. Set
   src="https://lh3.googleusercontent.com/DaD9z4d5j4BAtD1XI7unS3ET_RL_DBRmxPPx_zbxW9LbwqfsoQ9xOZoWKQ0UMHjxpzkezUEat9z4iTDPA62PquL222TI43q1XNn7fq8mMN1QGmglvJupuKOFk_xCh2jGwZisBXAgxw=w400"
 %}
 
-The moment you arrive to Blowfish Poké, the first thing that catches your eye is the vibrant colors of the ingredients. Vibrant colors of orange, pink, purple, and green
+The moment you arrive to Blowfish Poké, the first thing that catches your eye is the vibrant colors of the ingredients. Vibrant colors of orange, pink, purple, and green.
