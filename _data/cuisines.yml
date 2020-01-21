@@ -6,6 +6,7 @@
 - name: American
   subtypes:
     - american
+    - hawaiian
     - tex-mex
 
 - name: Asian
@@ -28,6 +29,10 @@
     - cuban
     - mexican
     - spanish
+
+- name: Middle Eastern
+  subtypes:
+    - egyptian
 
 - name: Other
   subtypes:
