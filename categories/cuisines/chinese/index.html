@@ -1,0 +1,21 @@
+---
+layout: default
+hasMap: true
+---
+
+{% assign chinesePosts = site.tags.chinese | where_exp:"item", "item.categories contains 'restaurant'" %}
+
+<div class="two-column">
+    <main class="main">
+      <h1>Chinese Fare Restaurants</h1>
+      {% include collection-list.html list=chinesePosts %}
+
+      <div id="mapid" style="height: 550px;"></div>
+      {% include map.html list=chinesePosts %}
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>
+
