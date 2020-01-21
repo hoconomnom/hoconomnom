@@ -1,7 +1,7 @@
 ---
 comments: true
 author: MrNomNom
-title: Poké Bowls Are Here Again.
+title: Poké Bowls Are Here.
 name: Blowfish Poké
 categories: [restaurant]
 tags: [poke, hawaiian]
