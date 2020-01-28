@@ -20,7 +20,7 @@ og_image: https://lh3.googleusercontent.com/VRHQO_fZYjV6LGvFVa8iRx3h-mdqdZ8wHPW8
   src="https://lh3.googleusercontent.com/ISoGWjuskRVIVRme8GfJbnd6d3PYmiNrAF3B6yTYQ9yIyRt1Ba1ro2sCU0AdffroA5U8HxG24AYTDLYadmP-r1QIomq3syNYw3-dBu5tq-K1zX1Ncmwz2qz_tiGStsRWwgp7fs0gQQ=w400"
 %}
 
-Since it's still cold outside, we've been really hitting all the hot bowl of noodle joints in the area. So how could we not go to this place. It's been a stable in Howard County for a long time, at least 18 years now. It has stood tall while many restaurants in its shopping center have come and gone. If you are looking for a place for your vietnamese and chinese cuisines, look no further than Pho Dat Thanh off of Snowden River Parkway in Columbia. 
+Since it's still cold outside, we've been really hitting all the hot bowl of noodle joints in the area. So how could we not go to this place. It's been a staple in Howard County for a long time, at least 18 years now. It has stood tall while many restaurants in its shopping center have come and gone. If you are looking for a place for your vietnamese and chinese cuisines, look no further than Pho Dat Thanh off of Snowden River Parkway in Columbia. 
 
 <!--more-->
 
