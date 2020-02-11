@@ -1,0 +1,21 @@
+---
+layout: default
+hasMap: true
+---
+
+{% assign austrianPosts = site.tags.austrian | where_exp:"item", "item.categories contains 'restaurant'" %}
+
+<div class="two-column">
+    <main class="main">
+      <h1>Austrian Restaurants</h1>
+      {% include collection-list.html list=austrianPosts %}
+
+      <div id="mapid" style="height: 550px;"></div>
+    </main>
+    
+    <aside class="sidebar">
+      {% include sidebar.html %}
+    </aside>
+</div>
+
+{% include map.html list=austrianPosts %}
