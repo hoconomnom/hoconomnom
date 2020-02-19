@@ -18,8 +18,8 @@ og_image: https://lh3.googleusercontent.com/8H8r62d4o4B1Il0_uTBCHBhhMGlmwc5JvVoK
 
 {%
   include photo-thumbnail.html 
-  caption="Chai Tea Latte"
-  src="https://lh3.googleusercontent.com/gpRAzV0ERM955ZdD51LqF6cx406eFEJjYX-XJ4tyjDW-q6W4omTvnNhRayjAToDfvhnOGwpdRkGKnMlcSTnb6zfYw0FtFcZfAmLXji1dzOJ-_wmlM9tieAmGctAUEwPTpoetqgGEeg=w400"
+  caption="Bulgogi, Egg, and Cheese"
+  src="https://lh3.googleusercontent.com/8H8r62d4o4B1Il0_uTBCHBhhMGlmwc5JvVoK8b4j5CI3mfxnCGVd9DNNwogx8ZsrQZJSPUE6ZndzTamAtYZQqMXbODwtys6olGo1IGbQpqxuEVloQhAIj7tZDsXZAiHfjkswhreYBQ=w400"
 %}
 
 We've been on a deli craze recently at the Nom Nom family. We visited this deli in a small little shopping center in Clarksville. This place screams mom and pop shop where literally it is run by a husband and wife team. They couldn't be more cute. They were so nice that Little Nom Nom actually had the courage to go up and talk to them (something he/she never does). The food is just as good as the service at Ruthie's Deli and Cafe.
@@ -44,8 +44,8 @@ The deli is simple, a nice long counter to the left and seating to the right. Th
 
 {%
   include photo-thumbnail.html 
-  caption="Bulgogi, Egg, and Cheese"
-  src="https://lh3.googleusercontent.com/8H8r62d4o4B1Il0_uTBCHBhhMGlmwc5JvVoK8b4j5CI3mfxnCGVd9DNNwogx8ZsrQZJSPUE6ZndzTamAtYZQqMXbODwtys6olGo1IGbQpqxuEVloQhAIj7tZDsXZAiHfjkswhreYBQ=w400"
+  caption="Chai Tea Latte"
+  src="https://lh3.googleusercontent.com/gpRAzV0ERM955ZdD51LqF6cx406eFEJjYX-XJ4tyjDW-q6W4omTvnNhRayjAToDfvhnOGwpdRkGKnMlcSTnb6zfYw0FtFcZfAmLXji1dzOJ-_wmlM9tieAmGctAUEwPTpoetqgGEeg=w400"
 %}
 
 I got the Bulgogi, Egg, and Cheese Breakfast sandwich on a croissant. This was really unique and was really good. They offer a lunch Bulgogi sandwich which I can see being pretty popular. Mrs. Nom Nom had gotten a Pesto Chicken Sandwich on ciabatta bread. Little Nom had an egg and sausage on a bagel. Everything was great.
