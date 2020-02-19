@@ -3,7 +3,7 @@ comments: true
 title: A Restaurant That Bleeds Maryland Blood
 name: The Beef Brothers Deli
 categories: [restaurant]
-tags: [sandwiches, pizza, fast food, ellicott city]
+tags: [sandwiches, pizza, fast food, deli, ellicott city]
 est: 2015-10
 latlong: [39.2791932,-76.8642101]
 social:
