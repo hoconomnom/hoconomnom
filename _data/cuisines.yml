@@ -38,3 +38,4 @@
 - name: Other
   subtypes:
     - fast food
+    - deli
