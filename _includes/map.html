@@ -3,10 +3,10 @@
 <script>
   var map = L.map('mapid').setView([39.235278, -76.941389], 11);
 
-  L.tileLayer('https://maps.wikimedia.org/osm-intl/{z}/{x}/{y}{r}.{ext}', {
+  L.tileLayer('https://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {
     ext: 'png',
     maxZoom: 18,
-    attribution: 'Wikimedia maps | Map data &copy; <a href="https://openstreetmap.org/copyright">OpenStreetMap contributors</a>'
+    attribution: '<a href="https://www.doi.gov">U.S. Department of the Interior</a> | <a href="https://www.usgs.gov">U.S. Geological Survey</a> | <a href="https://www.usgs.gov/laws/policies_notices.html">Policies</a>'
   }).addTo(map);
   
   {% for post in include.list %}
