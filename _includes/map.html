@@ -5,7 +5,8 @@
 
   L.tileLayer('https://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {
     ext: 'png',
-    maxZoom: 18,
+    minZoom: 11,
+    maxZoom: 16,
     attribution: '<a href="https://www.doi.gov">U.S. Department of the Interior</a> | <a href="https://www.usgs.gov">U.S. Geological Survey</a> | <a href="https://www.usgs.gov/laws/policies_notices.html">Policies</a>'
   }).addTo(map);
   
