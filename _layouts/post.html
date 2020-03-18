@@ -51,12 +51,16 @@ layout: default
     </section>
     {% endif %}
 
+    <!-- Contact -->
+    {% include contact-blurb.html %}
+
     <!-- Tags -->
     <div class="tags">
       {% if page.tags != empty %}
         Tags: {{ page.tags | array_to_sentence_string }}
       {% endif %}
     </div>
+
   </main>
 
   <aside class="sidebar">
