@@ -19,7 +19,7 @@ og_image: https://lh3.googleusercontent.com/XXiitEBua8l5d0Aq9wvDWmSlZiPUZQK7ASva
   src="https://lh3.googleusercontent.com/XXiitEBua8l5d0Aq9wvDWmSlZiPUZQK7ASvaRI_PJuEyga1W4tLnpuN1fkQP6K0CWeo_ZefzoLxnsCU8ygCx2QqYWTxiEdI4XNUqBOxhzYNuzPZNh1CyYQY2vrZZf-t0iZxiG0GdwQ=w400"
 %}
 
-Summer during COVID-19 is not fun. With the Howard County Fair cancelled, we'll miss out on the farm animals, rides, and games. But there is one thing that you won't miss out on... carnival food. We've found it: sausages, cheese fries, funnel cake, corn dogs, shakes, sundaes, soft serve and freshly squeezed lemonade. Everything that will fill my arteries for the next 50 years but totally worth it. Summer has arrived and it's name is Goertze's Dairy Kone.
+Summer during COVID-19 is not fun. With the [2020 Howard County Fair cancelled](https://www.facebook.com/HowardCountyFairMD), we'll miss out on the farm animals, rides, and games. But there is one thing that you won't miss out on... carnival food. We've found it: sausages, cheese fries, funnel cake, corn dogs, shakes, sundaes, soft serve and freshly squeezed lemonade. Everything that will fill my arteries for the next 50 years but totally worth it. Summer has arrived and it's name is Goertze's Dairy Kone.
 
 <!--more-->
 
