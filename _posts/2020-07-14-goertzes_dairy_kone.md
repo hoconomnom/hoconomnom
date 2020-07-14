@@ -4,7 +4,7 @@ author: MrNomNom
 title: Although There's No Fair, Doesn't Mean You Can't Have The Food
 name: Goertze's Dairy Kone
 categories: [restaurant]
-tags: [soft serve, ice cream, funnel cake, corn dogs, food truck, West Friendship]
+tags: [soft serve, ice cream, funnel cake, corn dogs, food truck, west friendship]
 est: 1967
 latlong: [39.310943,-76.966876]
 social:
