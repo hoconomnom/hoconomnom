@@ -16,6 +16,12 @@ layout: default
     <!-- Title -->
     <h1>{{ page.title }}</h1>
 
+    {% if page.closed %}
+    <div class="alert alert-warn alert-closed">
+      Unfortunately, this establishment is now closed permanently.
+    </div>  
+    {% endif %}
+
     <!-- Content -->
     {{ content }}
 

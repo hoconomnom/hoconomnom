@@ -1,5 +1,6 @@
 ---
 comments: true
+closed: true
 title: Menya Hosaki Ramen (Pop-Up)
 name: Menya Hosaki Ramen (Pop-Up)
 categories: [restaurant]
