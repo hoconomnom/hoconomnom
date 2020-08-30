@@ -11,13 +11,13 @@ social:
   yelp: https://www.yelp.com/biz/taqueria-los-primos-ellicott-city-2
   website: https://taqueria-los-primos-ellicos-city.business.site/
   gmap: https://goo.gl/maps/yke966rXfWgucC437
-og_image: https://lh3.googleusercontent.com/FwXFw-ocOJccF6rNK5D_aA7r2IfNc4CpJaTbLTQHWeQ8bRhVpOM__ckC0zaTjHwRMVI-pWigUpbjbWnRZqd7SDQagDM8ONIG8bT0GMb4FSV5u9LxO06VTQZ-YQG_0lCpV4ExLZbHRQ=w400
+og_image: https://lh3.googleusercontent.com/LN82Koy3UH4zDmaUcWKj1mjBw3Ewe7DTNm1FUHQTVMVLVZ4efuBHv0_TYfMz1gAClOrjJ93GD58QeX6zBd6ELoQenkH_KAsMQSeBFv8XGpvrzO1jC7S3pyu-MXBDpADzOARkNFGIKg=w400
 ---
 
 {%
   include photo-thumbnail.html 
   caption="Al Pastor Tacos To Die For"
-  src="https://lh3.googleusercontent.com/qAlliSmKapTHTVwQR2TPaaB6p2-0OTBMGC21gbckvU9_rpjzaRdGtVtCfKV6bjl02BhaSKNCHI5EXsZuuZ5mLP58-P1fURHmziUjMdB3yhFOjeHwIi1VFan4waX36CW8VPxhJeSA=w400"
+  src="https://lh3.googleusercontent.com/LN82Koy3UH4zDmaUcWKj1mjBw3Ewe7DTNm1FUHQTVMVLVZ4efuBHv0_TYfMz1gAClOrjJ93GD58QeX6zBd6ELoQenkH_KAsMQSeBFv8XGpvrzO1jC7S3pyu-MXBDpADzOARkNFGIKg=w400"
 %}
 
 Have you ever asked, where can I get the best tacos? It's a legit request. If wherever you are, the answer is Taco Bell, then you don't know what you're missing. So where's the best place to get tacos in Howard County? I have the place for you in today's post. And they are mouth watering.
