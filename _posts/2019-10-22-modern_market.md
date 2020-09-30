@@ -1,5 +1,6 @@
 ---
 comments: true
+closed: true
 title: Family Dinner, Spend It Here
 name: Modern Market
 categories: [restaurant]
